@@ -1,0 +1,11 @@
+.box{
+    background-color: #edd2a4;
+}
+.sidebar{
+    padding: 100px;
+    border-radius: 15px 15px 0px 0px;
+    margin: 10px;
+    position: relative;
+    height: 100%;
+    width: 50%
+}
